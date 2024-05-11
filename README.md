@@ -1,27 +1,3 @@
-<style>
-  body, html {
-    margin: 0;
-    padding: 0;
-    height: 100%;
-  }
-  .upper-part {
-    background-color: #26a269;
-    height: 360px; /* altura mínima de 360px */
-    width: 100%;
-    display: flex; /* habilita flexbox */
-    justify-content: center; /* centraliza horizontalmente */
-    align-items: center; /* centraliza verticalmente */
-  }
-  .lower-part {
-    /* background-color: #000000; */
-    height: calc(100% - 360px); /* altura restante da tela */
-    width: 100%;
-  }
-  .i{
-    font-size: 100
-  }
-</style>
-</head>
 <body>
 
 <div class="upper-part">
