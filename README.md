@@ -9,7 +9,7 @@
     <a href="https://dgansauskas.github.io/">
      <img style="vertical-align: middle;" alt="AboutMe" width="25px" src="images/info.png"></a>
     <span>About Me</span>
-</h1>
+  </h1>
 <p align="justify">With over a decade in finance analytics, I've honed my skills in data modeling and insight extraction for major tech and insurance companies. My expertise lies in KPI tracking, commission analysis, and marketing data scrutiny, bolstered by Python-driven automation and reporting.
 <br><br>Transitioning into a data engineering role, I now shape and govern large datasets using Big Data tools, Spark, SQL, and an array of cloud technologies, including Terraform and Apache Airflow. Embracing Scrum and Agile for four years, I ensure smooth project flows through robust documentation and code quality with tools like Jira, Confluence, Github, and GitLab.
 <br><br>Currently, I'm immersed in a cloud team, mastering DevOps, DataOps, FinOps and Observability, feasting on Docker, Kubernetes, and the vast cloud ecosystem.
@@ -19,14 +19,16 @@
     <a href="https://dgansauskas.github.io/">
      <img style="vertical-align: middle;" alt="AboutMe" width="25px" src="images/connect.png"></a>
     <span>Connect with me</span>
+  </h1>
     <br><br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=26a269&color:FFF)](https://www.linkedin.com/in/danilocarandina/?style=plastic) [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github&logoColor=26a269&color:FFF)](https://github.com/dgansauskas?style=plastic) [![Email](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=26a269&color:FFF)](mailto:danilo.carandina@gmail.com?style=plastic)
 
-<h1>
+  <h1>
     <a href="https://dgansauskas.github.io/">
      <img style="vertical-align: middle;" alt="AboutMe" width="25px" src="images/tools.png"></a>
     <span>Technologies I work</span>
+  </h1>
 <br><br>
 
 <!-- ![BigData](https://img.shields.io/badge/BigData-000?style=for-the-badge&logo=apachehadoop&logoColor=26a269) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=26a269) ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=26a269) ![GCP](https://img.shields.io/badge/GCP-000?style=for-the-badge&logo=googlecloud&logoColor=26a269)
