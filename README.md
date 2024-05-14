@@ -7,7 +7,7 @@
 <div class="lower-part">
   <h1>
     <a href="https://dgansauskas.github.io/">
-     <img style="vertical-align: bottom;" alt="AboutMe" width="46px" src="images/info.png"></a>
+     <img style="vertical-align: middle;" alt="AboutMe" width="46px" src="images/info.png"></a>
     <span>About Me</span>
 </h1>
 <p align="justify">With over a decade in finance analytics, I've honed my skills in data modeling and insight extraction for major tech and insurance companies. My expertise lies in KPI tracking, commission analysis, and marketing data scrutiny, bolstered by Python-driven automation and reporting.
