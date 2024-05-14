@@ -22,7 +22,7 @@
   </h1>
     <br>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=26a269&color:FFF)](https://www.linkedin.com/in/danilocarandina/?style=plastic){:target="blank" rel="noopener"} [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github&logoColor=26a269&color:FFF)](https://github.com/dgansauskas?style=plastic){:target="blank" rel="noopener"} [![Email](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=26a269&color:FFF)](mailto:danilo.carandina@gmail.com?style=plastic){:target="blank" rel="noopener"}
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=26a269&color:FFF)](https://www.linkedin.com/in/danilocarandina/?style=plastic)[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github&logoColor=26a269&color:FFF)](https://github.com/dgansauskas?style=plastic) [![Email](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=26a269&color:FFF)](mailto:danilo.carandina@gmail.com?style=plastic)
 
 <br>
 
