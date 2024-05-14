@@ -15,7 +15,6 @@
 <br><br>Currently, I'm immersed in a cloud team, mastering DevOps, DataOps, FinOps and Observability, feasting on Docker, Kubernetes, and the vast cloud ecosystem.
 </p>
 
----
   <h1>
     <a href="https://dgansauskas.github.io/">
      <img style="vertical-align: middle;" alt="AboutMe" width="25px" src="images/connect.png"></a>
@@ -24,7 +23,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=26a269&color:FFF)](https://www.linkedin.com/in/danilocarandina/?style=plastic) [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github&logoColor=26a269&color:FFF)](https://github.com/dgansauskas?style=plastic) [![Email](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=26a269&color:FFF)](mailto:danilo.carandina@gmail.com?style=plastic)
 
----
 <h1>
     <a href="https://dgansauskas.github.io/">
      <img style="vertical-align: middle;" alt="AboutMe" width="25px" src="images/tools.png"></a>
