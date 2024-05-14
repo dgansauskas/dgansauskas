@@ -16,12 +16,20 @@
 </p>
 
 ---
-### Connect with me
+  <h1>
+    <a href="https://dgansauskas.github.io/">
+     <img style="vertical-align: middle;" alt="AboutMe" width="25px" src="images/connect.png"></a>
+    <span>Connect with me</span>
+    <br><br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=26a269&color:FFF)](https://www.linkedin.com/in/danilocarandina/?style=plastic) [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github&logoColor=26a269&color:FFF)](https://github.com/dgansauskas?style=plastic) [![Email](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=26a269&color:FFF)](mailto:danilo.carandina@gmail.com?style=plastic)
 
 ---
-### Technologies I work
+<h1>
+    <a href="https://dgansauskas.github.io/">
+     <img style="vertical-align: middle;" alt="AboutMe" width="25px" src="images/tools.png"></a>
+    <span>Technologies I work</span>
+<br><br>
 
 <!-- ![BigData](https://img.shields.io/badge/BigData-000?style=for-the-badge&logo=apachehadoop&logoColor=26a269) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=26a269) ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=26a269) ![GCP](https://img.shields.io/badge/GCP-000?style=for-the-badge&logo=googlecloud&logoColor=26a269)
 ![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws&logoColor=26a269) ![Azure](https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=microsoftazure&logoColor=26a269) ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=26a269) ![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=26a269)
