@@ -10,7 +10,7 @@
      <img align="center" alt="DanGan" width="36px" src="images/information.png"></a>
     <span>About Me</span>
 </h1>
-<p align="justify">With over a decade in finance analytics, I've honed my skills in data modeling and insight extraction for major tech and insurance firms. My expertise lies in KPI tracking, commission analysis, and marketing data scrutiny, bolstered by Python-driven automation and reporting.
+<p align="justify">With over a decade in finance analytics, I've honed my skills in data modeling and insight extraction for major tech and insurance companies. My expertise lies in KPI tracking, commission analysis, and marketing data scrutiny, bolstered by Python-driven automation and reporting.
 <br><br>Transitioning into a data engineering role, I now shape and govern large datasets using Big Data tools, Spark, SQL, and an array of cloud technologies, including Terraform and Apache Airflow. Embracing Scrum and Agile for four years, I ensure smooth project flows through robust documentation and code quality with tools like Jira, Confluence, Github, and GitLab.
 <br><br>Currently, I'm immersed in a cloud team, mastering DevOps, DataOps, FinOps and Observability, feasting on Docker, Kubernetes, and the vast cloud ecosystem.
 </p>
